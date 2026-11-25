@@ -126,7 +126,7 @@ export default async function Home() {
               <p className="text-sm text-muted">{t("home.builtBy.role")}</p>
             </div>
             <div className="flex gap-2 flex-wrap">
-              <SocialLink href="https://github.com/aynxitis" icon={<GithubIcon />} label={t("home.social.github")} />
+              <SocialLink href="https://github.com/dearnagori" icon={<GithubIcon />} label={t("home.social.github")} />
               <SocialLink href="https://www.linkedin.com/in/anis-belamri/" icon={<LinkedinIcon />} label={t("home.social.linkedin")} />
               <SocialLink href="mailto:am_belamri@estin.dz" icon={<Mail className="w-3.5 h-3.5" />} label={t("home.social.email")} />
               <SocialLink href="https://aynx.dev" icon={<Globe className="w-3.5 h-3.5" />} label={t("home.social.website")} />

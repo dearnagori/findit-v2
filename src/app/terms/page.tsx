@@ -113,7 +113,7 @@ export default function TermsOfService() {
               </a>{" "}
               {t("legal.contact.or")}{" "}
               <a
-                href="https://github.com/aynxitis"
+                href="https://github.com/dearnagori"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="legal-link"

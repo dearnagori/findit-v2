@@ -16,8 +16,8 @@ export const APP_CONFIG = {
   author: {
     name: "Mohamed Anis BELAMRI",
     email: "findit@estin.dz",
-    github: "https://github.com/aynxitis",
+    github: "https://github.com/dearnagori",
     linkedin: "https://www.linkedin.com/in/anis-belamri/",
-    instagram: "https://instagram.com/aynxitis",
+    instagram: "https://instagram.com/dearnagori",
   },
 } as const;

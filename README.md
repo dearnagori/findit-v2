@@ -34,7 +34,7 @@ FINDit replaces the endless campus-wide lost item emails with a dedicated platfo
 ### Installation
 
 ```bash
-git clone https://github.com/aynxitis/findit-v2.git
+git clone https://github.com/dearnagori/findit-v2.git
 cd findit-v2
 npm install
 ```
